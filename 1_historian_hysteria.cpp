@@ -15,7 +15,7 @@ lists parse_txt() {
     vector<int> a;
     vector<int> b;
 
-    ifstream f("historian_hysteria_input.txt");
+    ifstream f("1_historian_hysteria_input.txt");
 
     string line;
     
